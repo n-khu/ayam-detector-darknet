@@ -1,5 +1,5 @@
-# Yolo v4, v3 and v2 for Windows and Linux
-
+# Chicken Detector App with Yolo v4, v3 and v2 for Windows and Linux
+Paper Chicken Detector App : https://drive.google.com/file/d/1I6ewMdzyBeASQvXkbJt5yR3g31_XwbDm/view?usp=sharing
 ## (neural networks for object detection)
 
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
